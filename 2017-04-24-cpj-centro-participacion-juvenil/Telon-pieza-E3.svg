@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="457.20001mm"
+   height="304.79999mm"
+   viewBox="0 0 1620 1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Telon-pieza-E3.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.30903184"
+     inkscape:cx="750.26662"
+     inkscape:cy="526.14833"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1426.0684,9.2039504 c 1.7438,22.3379996 9.8037,60.9739996 19.5586,92.0959996 25.9263,82.714 40.8957,175.841 47.0059,296.602 l 0,-388.6979996 z M 8.8241452,406.49795 c 13.0465978,28.44 25.5740978,43.232 33.2442978,52.062 7.3563,8.468 36.1339,130.128 102.939497,252.445 6.9016,12.637 14.4916,39.565 16.2851,46.094 l -152.4688948,0.493 0.1264,299.95995 1483.6823548,-0.986 -1.0455,-291.59595 -464.4858,-6.273 c -1.3215,-39.46 -2.414,-67.84 -3.1367,-75.649 -3.5375,-38.225 -11.3382,-87.371 -17.3339,-109.215 l -10.90044,-39.715 -13.0605,29.786 c -7.1834,16.382 -13.4572,58.827 -13.9414,94.322 -0.7317,53.639 -10.7745,88.804 -14.6582,100.471 l -472.05282,0 c -1.1073,-13.788 -24.8797,-311.502 -22.3554,-437.057 2.1778,-108.323 13.093,-257.4199 31.0745,-312.9288996 l -481.2932948,0.4929 z"
+       id="path4386"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccccccccccscccsccsccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="frame"
+     style="display:inline" />
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="457.20001mm"
+   height="304.79999mm"
+   viewBox="0 0 1620 1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Telon-pieza-B4.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.30903184"
+     inkscape:cx="769.67188"
+     inkscape:cy="526.14833"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 42.557693,9.4500481 c -0.3851,15.3597999 -5.6907,31.5864999 -4.0398,49.2656999 4.5904,49.157802 2.2158,67.454502 -11.4648,88.333902 -10.3951,15.8651 -15.5361,38.0508 -12.9297,55.8086 1.8395,12.5337 1.8403,38.9719 -3.8463,62.5028 l -2.9622998,466.8859 c 8.8643998,14.0877 23.2916998,31.4445 37.0741998,43.9863 18.6326,16.9554 33.949197,36.3046 34.035197,42.9981 0.089,6.6935 24.654,38.9776 54.59569,71.74219 29.9418,32.7647 54.4412,62.922 54.4512,67.0176 0,4.0956 10.8761,7.4472 24.1562,7.4472 15.4721,0 31.7318,10.6511 45.2617,29.65244 9.6692,13.57842 36.3121,39.06822 63.7071,61.72072 l 126.2929,0 c -28.245,-90.06976 -32.6408,-117.36296 -35.2187,-207.33215 -1.2237,-42.7075 -7.6941,-115.0482 -14.3789,-160.7558 -9.9948,-68.3414 -9.7928,-85.9798 1.1328,-99.2871 13.4527,-16.3853 57.1328,-103.0137 57.1328,-113.3086 0,-3.077 18.5827,-23.811 41.2949,-46.0743 28.4007,-27.8398 49.9556,-40.4785 69.0332,-40.4785 15.2564,0 39.1558,-5.2038 53.1114,-11.5625 19.6647,-8.9597 30.6835,-8.7196 48.9687,1.0664 14.852,7.9487 37.9391,10.2039 62.3125,6.086 31.7021,-5.3561 45.4015,-2.006 75.5957,18.4844 20.2827,13.7643 43.0092,22.674 50.502,19.7988 7.4931,-2.8753 16.293,1.7293 19.55663,10.2344 3.2637,8.505 12.9931,15.4648 21.6191,15.4648 8.6263,0 21.0529,12.7553 27.6153,28.3457 6.5623,15.5904 26.0729,40.2415 43.3574,54.7813 l 31.42579,26.4355 -4.1485,108.7891 c -3.8755,101.6079 -6.1194,111.5911 -33.99019,151.2382 -19.6179,27.9072 -36.9453,73.06039 -50.5801,131.80669 -8.4073,36.2235 -19.2342,77.65316 -27.5898,106.26766 l 247.83009,0 c 33.6833,-14.3798 73.4333,-37.5978 105.4765,-63.73446 25.3313,-20.6621 50.4517,-37.5684 55.8243,-37.5684 12.0687,0 91.7285,-85.36709 91.7285,-98.30079 0,-5.1627 13.4028,-22.7895 29.7851,-39.1718 16.3822,-16.3822 29.874,-37.9494 29.9805,-47.9258 0.1065,-9.9763 7.2536,-67.2869 15.8828,-127.3555 8.6293,-60.0685 15.1716,-115.9164 14.5391,-124.1074 -0.6326,-8.1912 -2.7038,-41.7002 -4.6035,-74.4648 -3.8359,-66.1497 -22.8437,-148.2905 -41.3555,-178.7168 -6.6447,-10.9217 -15.1437,-32.9879 -18.8867,-49.0372 -3.7431,-16.0492 -14.9159,-40.6223 -24.8282,-54.6074 -20.0556,-28.2959 -50.1582,-110.972702 -50.1582,-137.759702 0,-2.7503 -2.8022,-8.0695 -7.0722,-14.6113999 z"
+       id="path4512"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscccscscscccsssssscsssscssscsssccsssssscscssscc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="frame"
+     style="display:inline" />
+</svg>

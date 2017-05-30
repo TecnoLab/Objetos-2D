@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="458.20001mm"
+   height="304.79999mm"
+   viewBox="0 0 1623.5434 1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="circulo-grabado.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2369139"
+     inkscape:cx="122.90994"
+     inkscape:cy="880.39259"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,27.637799)">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4255"
+       sodipodi:type="arc"
+       sodipodi:cx="82.562439"
+       sodipodi:cy="61.894993"
+       sodipodi:rx="52.649281"
+       sodipodi:ry="52.649162"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="M 135.16191,64.184714 A 52.649281,52.649162 0 0 1 80.527522,114.50482 52.649281,52.649162 0 0 1 29.943259,60.114938 52.649281,52.649162 0 0 1 84.087598,9.2679257 52.649281,52.649162 0 0 1 135.19639,63.165214" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="41.231647"
+       y="65.227905"
+       id="text3334"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3336"
+         x="41.231647"
+         y="65.227905"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Prueba</tspan></text>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3338"
+       sodipodi:type="arc"
+       sodipodi:cx="82.867531"
+       sodipodi:cy="28.442808"
+       sodipodi:rx="7.6804051"
+       sodipodi:ry="7.6804051"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 90.540669,28.77683 a 7.6804051,7.6804051 0 0 1 -7.969989,7.340644 7.6804051,7.6804051 0 0 1 -7.379163,-7.934338 7.6804051,7.6804051 0 0 1 7.898502,-7.41751 7.6804051,7.6804051 0 0 1 7.455681,7.862481" />
+  </g>
+</svg>
